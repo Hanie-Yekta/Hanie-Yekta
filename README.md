@@ -20,7 +20,7 @@ I’m a back-end developer and currently working with Python and Django.
 <br>
 
 ## My connections
-<a href="https://www.linkedin.com/in/hanie--yekta"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="linkedin logo" style="height: 40px; margin-right: 5px"></a>
+<a href="https://www.linkedin.com/in/hanie-yekta-99b0a5315"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="linkedin logo" style="height: 40px; margin-right: 5px"></a>
 <a href="mailto:yekta.hnie@gmail.com"><img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="gmail logo" style="height: 40px; margin-right: 5px"></a>
 
 
